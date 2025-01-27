@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# My Projects
+
+- [![Gametime Rehab](https://github.com/user-attachments/assets/a7b80130-6504-46a8-b21d-92075613f03f)](https://github.com/your-username/GametimeRehab) - **Gametime Rehab**: A rehabilitation app for athletes.
