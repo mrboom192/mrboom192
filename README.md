@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/user-attachments/assets/a7b80130-6504-46a8-b21d-92075613f03f" alt="Gametime Rehab" width="128">
 </a>
 
-<a href="https://github.com/your-username/GametimeRehab](https://github.com/CS-3203-Group-F/calpal-web" style="text-decoration: none; text-align: center;">
+<a href="https://github.com/CS-3203-Group-F/calpal-web" style="text-decoration: none; text-align: center;">
   <img src="https://github.com/user-attachments/assets/f41d6ab5-d373-4d77-97a2-02dfcd5a7bb3" alt="CalPal" width="128">
 </a>
 
