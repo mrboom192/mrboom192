@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 
 <div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap;">
 
-<a href="https://github.com/your-username/GametimeRehab" style="text-decoration: none; text-align: center;">
+<a href="https://github.com/mrboom192/GametimeRehab" style="text-decoration: none; text-align: center;">
   <img src="https://github.com/user-attachments/assets/a7b80130-6504-46a8-b21d-92075613f03f" alt="Gametime Rehab" width="128">
 </a>
 
 <div style="width: 4px; height: 20px;"></div>
 
-<a href="https://github.com/your-username/CalPal" style="text-decoration: none; text-align: center;">
+<a href="https://github.com/CS-3203-Group-F/calpal-web" style="text-decoration: none; text-align: center;">
   <img src="https://github.com/user-attachments/assets/33db8cf3-e768-4b7d-a54e-ed03d4bf60f1" alt="CalPal" width="128">
 </a>
 
