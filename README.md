@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](https://komarev.com/ghpvc/?username=mrboom192)
+
 # My Projects
 
 <div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap;">
