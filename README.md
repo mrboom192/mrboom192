@@ -30,4 +30,10 @@ Here are some ideas to get you started:
   <img src="https://github.com/user-attachments/assets/33db8cf3-e768-4b7d-a54e-ed03d4bf60f1" alt="CalPal" width="128">
 </a>
 
+<div style="width: 4px; height: 20px;"></div>
+
+<a href="https://github.com/mrboom192/MyJournal" style="text-decoration: none; text-align: center;">
+  <img src="https://github.com/user-attachments/assets/079f0e7e-a0ca-4a7f-9c6b-3e0bde27ab6e" alt="MyJournal" width="128">
+</a>
+
 </div>
